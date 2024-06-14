@@ -1,0 +1,176 @@
+For GoToMyPC support in Swindon contact
+email		-	justin.timbrell@qa.com (monitored more frequently)
+email		-	martin.pain@qa.com
+
+Justin Timbrell	-	01793696172
+Martin pain	-	01793696171
+
+Or email coursesupport@qa.com
+
+Centre:			Swindon
+Room:			Swindon VR08
+Course:			ADXD2DA4M4B
+
+Number of AFA PC's setup: 17 AFA PCs + VNC Desktop
+
+VNC Desktop -		INST-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/643D1D99DC681A0CA2B8618FF2413930
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+	Access Code:	password841
+	
+AFA 01 -		PC01-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/7BE9EA62640985ACF4C2C18FF24189A0
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 02 -		PC02-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/F9AB0D991F8E17231D38D18FF24258DF
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 03 -		PC03-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/7B6FF501D7AAA6D96A60718FF242801A
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 04 -		PC04-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/A77C0C48A418090AC94B818FF242A8D5
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 05 -		PC05-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/37A3B4B4A8C93E9D99B8218FF241BF4E
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 06 -		PC06-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/F33CD9D118A11C61D8EAC18FF241EFF0
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 07 -		PC07-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/FAB32FCDB147948E895C918FF242CE6C
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 08 -		PC08-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/D72C35910C9E55A94B62D18FF24306A2
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 09 -		PC09-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/5EBDFDF8B1B7705FDC35518FF238A60B
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 10 -		PC10-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/428DF181B9115DA822BCF18FF244A3EA
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 11 -		PC11-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/FA248C7E6ED6E9425846718FF244CFDB
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 12 -		PC12-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/FC142CD0680B033E59CEE18FF244F586
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 13 -		PC13-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/4EEB246DBDD2E75B6445318FF2451810
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 14 -		PC14-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/15EC2C59CE0592C8F4F6718FF2455589
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 15 -		PC15-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/AEB09936B326049B1EAF618FF24224A8
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 16 -		PC16-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/A3D268435E480225FBBD018FF245B5F0
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
+
+AFA 17 -		PC17-2DA4M4B-10062024
+
+	Lab URL:	https://www.gotomypc.com/sc/7204458F6D7A09128C5CA18FF245DB91
+		
+	Email:		virtualroom08@qa.com
+	Password:	QARemoteLearning#1
+
+Access Code:		password841
